@@ -1,4 +1,5 @@
 # SSM
+这是直接用别人的项目，学习一下，大家不要误会
 SpringMVC,Mybatis,Spring三大框架的整合总是很麻烦，在此提供一个已经整合好三大框架的包，可以直接下载导入Myeclipse使用，项目基于Maven做依赖管理。项目基于Mysql自带的Sakila数据库实现了MIS系统中常用的多个功能，运行前请安装好Mysql。
 
 其中包含的内容如下：
